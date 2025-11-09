@@ -61,3 +61,21 @@ What I learned: How to store values in variables and use arithmetic to perform u
 What I did: I calculated how many seconds are in 2 hours. Since 1 hour = 60 minutes and 1 minute = 60 seconds, I multiplied hours * 3600.
 Result: 2 hours = 7200 seconds.
 Reflection: This helped me understand how Python handles numbers and prints text mixed with variables.
+
+
+User Input Age Calculator
+
+What I Learned
+
+How to prompt a user to input a value using input().
+
+How to convert user input from a string to an integer with int().
+
+How to perform arithmetic operations on user-provided data.
+
+Challenges I Faced
+
+The exercise was straightforward, but I had to make sure to use the correct variable when printing the result.
+
+Summary
+This code calculates the user’s age in the year 2050 by adding 27 years to their current age. It helped me practice handling user input, converting types, and combining variables with text in Python output
