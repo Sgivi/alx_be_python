@@ -53,3 +53,11 @@ The exercise was straightforward and helped me clearly follow each instruction.
 
 Summary
 In this task, I calculated the area of a rectangle by multiplying its length and width. This helped me practice variable assignments and arithmetic operations in Python.
+
+
+Exercise: Converting Hours to Seconds
+
+What I learned: How to store values in variables and use arithmetic to perform unit conversions.
+What I did: I calculated how many seconds are in 2 hours. Since 1 hour = 60 minutes and 1 minute = 60 seconds, I multiplied hours * 3600.
+Result: 2 hours = 7200 seconds.
+Reflection: This helped me understand how Python handles numbers and prints text mixed with variables.
