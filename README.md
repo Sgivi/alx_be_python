@@ -17,3 +17,21 @@ I initially found using the terminal confusing, so I ended up using the VS Code 
 
 Summary
 This exercise helped me understand how to combine text and numbers in Python output and practice basic arithmetic operations in a program.
+
+
+Simple Interest Calculator
+
+What I Learned
+
+How to calculate simple interest using Python arithmetic operations.
+
+How to store values in variables and use a mathematical formula in code.
+
+How to print results clearly using the print() function.
+
+Challenges I Faced
+
+This task was straightforward because the formula and instructions were provided.
+
+Summary
+In this exercise, I calculated the simple interest for a principal of 1000 at a 5% rate over 3 years using Python. It helped me practice variable assignments and arithmetic operations.
