@@ -17,7 +17,7 @@ try:
 
     temperature = float(temp_input)
     
-    unit = input("Is this temperature in Celsius of Fahrenheit? (C/F): ").strip().upper()
+    unit = input("Is this temperature in Celsius or Fahrenheit? (C/F): ").strip().upper()
     
     if unit == "F":
         result = convert_to_celsius(temperature)
