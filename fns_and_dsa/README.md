@@ -1,5 +1,5 @@
 This readme contains Python tasks from the ALX Backend Python program:
-an arithmetic operations function and a simple shopping list manager.
+an arithmetic operations function, a simple shopping list manager, and displaying current datetime with future date.
 
 ## 1. Arithmetic Operations (`arithmetic_operations.py`)
 
@@ -27,3 +27,24 @@ A menu-driven CLI program that lets the user:
 * Exit the program
 
 Uses a Python list to store and update shopping items.
+
+## Explore Datetime
+
+# What the script does
+
+1. Display Current Date & Time
+    - Uses datetime.now()to get the current date and time
+    - Formats it as: YYYY-MM-DD HH:MM:SS
+    - Prints the results
+
+2. Calculate a Future Date
+    - Prompts the user to enter a number of days
+    - Uses timedelta(days=<value>) to add those days to today's date
+    - Prints the future date
+
+# Concepts covered
+- **datetime module**
+- **datetime.now()**
+- **.strftime()** formatting
+- **timedelta** for date calculations
+- User input and function structurebn\
